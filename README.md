@@ -1,4 +1,4 @@
-# 📊 Customer Behavior Data Analytics Project
+## 📊 Customer Behavior Data Analysis Project
 
 ## 📌 Overview
 This project demonstrates a complete **Data Analytics workflow**, starting from raw data processing to interactive business insights. The project includes data loading in Python, Exploratory Data Analysis (EDA), data cleaning, SQL analysis using MySQL, dashboard creation in Power BI, report generation, and presentation preparation using Gamma.
@@ -7,15 +7,14 @@ The objective is to transform raw customer data into meaningful insights that su
 
 ---
 
-## 📂 Dataset
+### 📂 Dataset
 - **Dataset Name:** Customer Behavior Dataset
 - **Format:** CSV
-- **Records:** (Update with your dataset size)
 - **Features:** Customer demographics, purchase history, spending behavior, and other business-related attributes.
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 - **Python**
   - Pandas
@@ -91,29 +90,15 @@ The project successfully:
 ---
 
 ## 📁 Project Structure
-Customer-Behavior-analysis/
+Customer_Behavior_Analysis/
 │
-├── Dataset/
-│   └── customer_behavior.csv
-│
-├── Python/
-│   └── Customer_Behavior_Analysis.ipynb
-│
-├── SQL/
-│   └── analysis_queries.sql
-│
-├── PowerBI/
-│   └── Customer_Behavior_Dashboard.pbix
-│
-├── Images/
-│   ├── dashboard.png
-│   └── eda.png
-│
-└── README.md
-
+├── Customer_behavior.pbix
+├── customer_shopping_behavior.csv
+├── Untitled2.ipynb
+├── README.md
 
 ---
-# 📷 Project Screenshots
+## 📷 Project Screenshots
 
 ## Power BI Dashboard
 
