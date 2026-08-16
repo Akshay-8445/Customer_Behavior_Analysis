@@ -1,4 +1,4 @@
-## 📊 Customer Behavior Data Analysis Project
+# 📊 Customer Behavior Data Analysis Project
 
 ### 📌 Overview
 This project demonstrates a complete **Data Analytics workflow**, starting from raw data processing to interactive business insights. The project includes data loading in Python, Exploratory Data Analysis (EDA), data cleaning, SQL analysis using MySQL, dashboard creation in Power BI, report generation, and presentation preparation using Gamma.
@@ -90,7 +90,7 @@ The project successfully:
 ---
 
 
-# 📁 Project Structure
+## 📁 Project Structure
 ```
 Customer_Behavior_Analysis/
 │
