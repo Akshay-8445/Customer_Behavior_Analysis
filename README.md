@@ -90,7 +90,7 @@ The project successfully:
 ---
 
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 Customer_Behavior_Analysis/
 │
