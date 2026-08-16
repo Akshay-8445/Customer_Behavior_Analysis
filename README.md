@@ -91,14 +91,14 @@ The project successfully:
 
 
 # 📁 Project Structure
-
+```
 Customer_Behavior_Analysis/
 │
 ├── Customer_behavior.pbix
 ├── customer_shopping_behavior.csv
 ├── Untitled2.ipynb
 └── README.md
-
+```
 
 ---
 ## 📷 Project Screenshots
