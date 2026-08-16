@@ -116,19 +116,17 @@ Customer-Behavior-analysis/
 
 ## Power BI Dashboard
 
-![Dashboard](<img width="1498" height="763" alt="Screenshot 2026-08-16 171532" src="https://github.com/user-attachments/assets/dfd8f709-645e-4e96-8ef3-c3ff6da8b456" />
-)
+<img width="1498" height="763" alt="Screenshot 2026-08-16 171532" src="https://github.com/user-attachments/assets/dfd8f709-645e-4e96-8ef3-c3ff6da8b456" />
+
 
 ---
 
 ### Missing Value Analysis
 
-![Missing Values](<img width="1920" height="1087" alt="Screenshot 2026-08-16 172542" src="https://github.com/user-attachments/assets/37a57770-205c-4297-94f9-4eab5402710d" />
-)
+<img width="1920" height="1087" alt="Screenshot 2026-08-16 172542" src="https://github.com/user-attachments/assets/37a57770-205c-4297-94f9-4eab5402710d" />
 
 ---
 
 ## SQL Analysis
 
-![SQL Query Output](<img width="1920" height="1200" alt="Screenshot 2026-08-16 205509" src="https://github.com/user-attachments/assets/43f970fd-81f8-4e38-8233-60f7d86c41c7" />
-)
+<img width="1920" height="1200" alt="Screenshot 2026-08-16 205509" src="https://github.com/user-attachments/assets/43f970fd-81f8-4e38-8233-60f7d86c41c7" />
