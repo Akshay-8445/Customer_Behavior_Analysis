@@ -1,6 +1,6 @@
 ## 📊 Customer Behavior Data Analysis Project
 
-## 📌 Overview
+### 📌 Overview
 This project demonstrates a complete **Data Analytics workflow**, starting from raw data processing to interactive business insights. The project includes data loading in Python, Exploratory Data Analysis (EDA), data cleaning, SQL analysis using MySQL, dashboard creation in Power BI, report generation, and presentation preparation using Gamma.
 
 The objective is to transform raw customer data into meaningful insights that support data-driven decision-making.
@@ -76,7 +76,7 @@ The Power BI dashboard includes:
 
 ---
 
-## 📊 Results
+### 📊 Results
 
 The project successfully:
 
@@ -100,7 +100,7 @@ Customer_Behavior_Analysis/
 ---
 ## 📷 Project Screenshots
 
-## Power BI Dashboard
+### Power BI Dashboard
 
 <img width="1498" height="763" alt="Screenshot 2026-08-16 171532" src="https://github.com/user-attachments/assets/dfd8f709-645e-4e96-8ef3-c3ff6da8b456" />
 
@@ -113,6 +113,13 @@ Customer_Behavior_Analysis/
 
 ---
 
-## SQL Analysis
+### SQL Analysis
 
 <img width="1920" height="1200" alt="Screenshot 2026-08-16 205509" src="https://github.com/user-attachments/assets/43f970fd-81f8-4e38-8233-60f7d86c41c7" />
+
+👨‍💻 Author
+
+Akshay Pal
+---
+💼 LinkedIn: https://www.linkedin.com/in/akshay-pal-60115b286/
+📧 Email: apal58150@gmail.com
