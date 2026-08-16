@@ -91,13 +91,13 @@ The project successfully:
 
 
 ## 📁 Project Structure
-'''
+
 Customer_Behavior_Analysis/
 │
 ├── Customer_behavior.pbix
 ├── customer_shopping_behavior.csv
 ├── Untitled2.ipynb
-├── README.md
+└── README.md
 
 
 ---
@@ -124,5 +124,4 @@ Customer_Behavior_Analysis/
 
 Akshay Pal
 ---
--💼 LinkedIn: https://www.linkedin.com/in/akshay-pal-60115b286/
--📧 Email: apal58150@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/akshay-pal-60115b286/
