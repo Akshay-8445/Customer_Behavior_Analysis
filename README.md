@@ -112,6 +112,7 @@ Customer-Behavior-analysis/
 └── README.md
 
 
+---
 # 📷 Project Screenshots
 
 ## Power BI Dashboard
